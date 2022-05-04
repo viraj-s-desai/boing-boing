@@ -1,0 +1,68 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+main{background-image: url("https://images.unsplash.com/photo-1585758942414-7a30b116f2af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+background-color: rgba(255,255,255,0.85);
+    background-blend-mode: lighten;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{text-align: center;
+color: rgb(180,55,201);
+width: 100%;
+font-size:50px;
+text-transform: uppercase;
+position: relative;
+font-family: 'Space Grotesk', sans-serif;
+font-weight: 500;
+font-style:italic;}
+
+.ascii-art {
+    font-family: monospace;
+    white-space: pre;
+    text-align:center;
+    font-size: 16px;
+    width: 100%;
+    position:relative;
+    top:-38px;
+    color:rgba(180,55,201,0.5);
+    text-size-adjust: 80%;
+}
+.ascii-art2 {
+    font-family: monospace;
+    white-space: pre;
+    text-align:center;
+    font-size: 16px;
+    width: 100%;
+    position:relative;
+    top:-10px;
+    color:rgba(180,55,201,0.5);
+    text-size-adjust: 80%;
+}
+
+h2{}
+.italic{font-style:italic;}
+
+.astrological-sign li{list-style-type: none;
+  padding: 50px; 
+  margin:2px ;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  max-height: 150px;
+  text-align: center;
+  font-size:50px;
+  padding: 50px;
+  margin: 50px;
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode: lighten;
+  border:double 2px rgba(144,45,158,0.9);
+  }
+a{text-decoration:none;
+}
+
+footer h6{font-weight:100;
+background-color:white;
+}
