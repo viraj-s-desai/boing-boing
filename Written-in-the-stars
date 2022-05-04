@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weekly astrological predictions</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <header>
+  <h1>Written in the Stars</h1>
+  <div class="ascii-art">
+ &#x208A _   +   &#x207A .  &#x263E &#x22C6  &#x208B&#x10A51 &#x2606
+&#x2606 '  &#x970  &#x208B   &#x207A   . &#x207B  &#x22C6 
+</div>
+  </header>
+
+<main>
+  <section class="astrological-sign">
+<ul> 
+  <li id="ariesemoji"><a href="/dailypredictions.html" #ariesdaily title="Aries">&#9800;</a></li>
+  <li id="taurusemoji">
+    <a href="/dailypredictions.html"  title="Taurus">
+    &#9801;</a></li>
+  <li id = "geminiemoji"><a href="/dailypredictions.html"  title="Gemini">&#9802;</a></li> 
+  <li id = "canceremoji"><a href="/dailypredictions.html"  title="Cancer">&#9803;
+   </a></li>
+  <li id = "leoemoji"><a href="/dailypredictions.html"  title="Leo">&#9804;
+    </a></li>
+  <li id="virgoemoji"><a href="/dailypredictions.html"  title="Virgo">&#9805;
+    </a></li>
+ <li id = "libraemoji"><a href="/dailypredictions.html"  title="Libra">&#9806;
+   </a></li> 
+  <li id="scorpioemoji"><a href="/dailypredictions.html"  title="scorpio">&#9807;
+    </a></li>
+  <li id="sagittariusemoji"><a href="/dailypredictions.html"  title="Sagittarius">&#9808;
+    </a></li> 
+  <li id="capricornemoji"><a href="/dailypredictions.html"  title="Capricorn">&#9809;
+    </a></li>
+  <li id="aquariusemoji"><a href="/dailypredictions.html"  title="Aquarius">&#9810;
+</a></li>
+  <li id= "piscesemoji"><a href="/dailypredictions.html"  title="Pisces">&#9811;
+</a></li>
+  </ul>
+ </section>
+  </main>
+  <footer>
+    <div class="ascii-art2">
+&#x2606 '  &#x970  &#x208B   &#x207A   . &#x207B  &#x22C6
+&#x208A _   +   &#x207A .  &#x263E &#x22C6  &#x208B&#x10A51 &#x2606
+</div>
+
+    <h6> <p>This webpage was made by Viraj Desai, after taking a crash course on HTML and CSS. Though it might not be much to look at, there are 10 tabs worth of questions that went into each unique element. The zodiac emojis take inspiration from the cool and aloof trend within astrology apps these days. </p>
+      <p>Contact me: viraj.samir.desai@gmail.com</p>
+    </h6>
+    </footer>
+</body>
+</html>
